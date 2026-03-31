@@ -1,4 +1,4 @@
-# income-classification-and-segmentation
+# income-data-classification-and-segmentation
 
 A machine learning project built on the 1994–1995 US Census Bureau Current Population Survey data. The project addresses two objectives:
 
